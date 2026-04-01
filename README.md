@@ -8,7 +8,7 @@ Kuliah WebProgramming: CRUD sederhana 26
 ```bash
 npm i -g nodemon
 
-npm i express, mysql2, cors, body-parser
+npm i express mysql2 cors body-parser
 ```
 4. Untuk menjalankan server
 ```bash
